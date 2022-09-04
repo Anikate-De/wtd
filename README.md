@@ -2,6 +2,9 @@
 
 A cross-platform tasklist application, made with Flutter, with persistent data storage.
 
+## 📱 Screenshots
+![Screenshots](readme_images/screenshots.png "Default UI, List of Tasks after addition, Task Addition Dialog")
+
 ## ❓How to Use
 
 ### Pre-requisites
