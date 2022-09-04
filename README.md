@@ -1,4 +1,4 @@
-# WTD - What To Do
+![Logo](readme_images/logo_banner.png)
 
 A cross-platform tasklist application, made with Flutter, with persistent data storage.
 
